@@ -28,3 +28,7 @@ A simple interface for inputting payment details.
 Integrated with popular payment gateways for secure transactions
 
 
+![Alt text](Screenshot_20241009-104710-portrait.png)
+
+
+
