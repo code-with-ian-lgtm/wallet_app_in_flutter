@@ -48,5 +48,13 @@ A simple interface for viewing account details, adding funds,  integrated with p
 </table>
 
 
-##Gallery
+### Gallery
+<table>
+  <tr>
+    <td><img src="Screenshot_20241009-104710-portrait.png" alt="Gallery Images" width="400"/></td>
+    <td><img src="Screenshot_20241009-104710-left.png" alt="Gallery Images" width="400"/></td>
+    <td><img src="Screenshot_20241009-104710-landscape.png" alt="Gallery Images" width="400"/></td>
+    <td><img src="Screenshot_20241009-104710-right.png" alt="Gallery Images" width="400"/></td>
+  </tr>
+</table>
 
