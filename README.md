@@ -22,7 +22,7 @@ Displays linked bank account cards and quick actionss  along with promotional ad
 
 <table>
   <tr>
-    <td><img src="Screenshot_20241009-104710-portrait.png" alt="Dashboard UI" width="300"/></td>
+    <td><img src="iphone.png" alt="Dashboard UI" width="300"/></td>
     <td><img src="Screenshot_20241009-104741-left.png" alt="Expense Tracker" width="400"/></td>
   </tr>
 </table>
